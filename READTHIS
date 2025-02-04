@@ -1,0 +1,21 @@
+My generator supports the following commands:
+
+Pressing the R key regenerates the map using a new seed value, thereby ensuring the map looks different.
+Pressing the , or < key causes the noise sample window to shrink, and the . or > key causes the sample window to grow. Pressing any of these keys leads to a new map display, but not a new noise seed value.
+My map will have randomized names describing a different part of the map. Used tracery to accomplish this. 
+
+How to run:
+
+1. Download all files and open them in an enviroment of your choosing. (Created using WebStorm in JetBrains Toolbox.)
+2. Run all .js files to make sure they work with no errors.
+3. Run the index.html file to open the map generator in your browser
+  a. Works best in google chrome browser
+4. Tinker with the above commands
+5. Have fun and enjoy the project!
+
+Used:
+1. Kenny Map-Pack
+2. Perlin Noise files
+3. Phaser game engine
+
+DISCLAIMER: Please credit me for any external use of this project.
