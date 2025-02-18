@@ -51,7 +51,7 @@ class myScene extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('tileset', '/assets/Spritesheet/mapPack_spritesheet.png');
+        this.load.image('tileset', './assets/Spritesheet/mapPack_spritesheet.png');
     }
 
     init(data) {
